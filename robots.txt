@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://denirawalis.github.io/juragandisco/sitemap.xml
